@@ -19,6 +19,8 @@
 
 # My Vegas Overview
 
+This Overview repository is a specification and documentation component of the My Vegas Project. Please do not add code or other resources to this repository.
+
 The goal of the My Vegas Project is to enable a Human Interface for our Smarter Smart City.
 
 ## Project Policies

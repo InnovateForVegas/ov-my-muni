@@ -27,12 +27,12 @@ The goal of the My Vegas Project is to enable a Human Interface for our Smarter 
 
 Unless otherwise and specifically indicated with replacement files in this repository, this project will adhere to the default Innovate for Vegas Foundation policies for Code of Conduct and Contributing, found at
 
-* [Code of Conduct - Innovate for Vegas Foundation](https://github.com/CodeForVegas/.github/blob/main/CODE_OF_CONDUCT.md)
-* [Contributing to this Project - Innovate for Vegas Foundation](https://github.com/CodeForVegas/.github/blob/main/CONTRIBUTING.md)
+* [Code of Conduct - Innovate for Vegas Foundation](https://github.com/InnovateForVegas/.github/blob/main/CODE_OF_CONDUCT.md)
+* [Contributing to this Project - Innovate for Vegas Foundation](https://github.com/InnovateForVegas/.github/blob/main/CONTRIBUTING.md)
 
 ## General Focus Areas
 
-A completely reasonable starting point would combine examining which mobile applications and deployed websites are available at any given time from our City and/or its agencies and relations, example the way other localities address similar interfaces to city services and other information with regard to their populations, and apply a layer of thoughfulness and interactive engagement with our populace to develop and evolving user experience that is, and will be, a better Human Interface than has been available to date.
+A completely reasonable starting point would combine examining which mobile applications and deployed websites are available at any given time from our City and/or its agencies and relations, example the way other localities address similar interfaces to city services and other information with regard to their populations, and apply a layer of thoughtfulness and interactive engagement with our populace to develop and evolving user experience that is, and will be, a better Human Interface than has been available to date.
 
 This is the *Familiar Surprise* approach, with some caveats.
 
@@ -42,7 +42,7 @@ With the Smart Social project, it is easier to adapt existing platforms and appl
 
 There is no compelling reason to require a particular approach across the board. There will be cases where a native application, requiring installation from a vendor application store somewhere, makes sense.
 
-For the most part, though, a no-install-required approach may make adoption easier, and will make bug fixes and feature changes more easily deployed to users who may or may not be willing to track a rapid or diverse development cycle. To insure the broadest compatibility and least-obtrustive user experience, a web-first (plain HTML to progressive web application) is probably preferabe. There is no hard rule here, though.
+For the most part, though, a no-install-required approach may make adoption easier, and will make bug fixes and feature changes more easily deployed to users who may or may not be willing to track a rapid or diverse development cycle. To insure the broadest compatibility and least-obtrusive user experience, a web-first (plain HTML to progressive web application) is probably preferable. There is no hard rule here, though.
 
 ### Accessibility
 

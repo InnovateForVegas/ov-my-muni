@@ -35,19 +35,3 @@ Unless otherwise and specifically indicated with replacement files in this repos
 All Innovate for Vegas Foundation projects, whether CodeFor or CreateFor, assume contributors and collaborators are familiar with the HOWTOs that detail such things as use of GitHub, the difference between CodeFor and CreateFor parts of our organization, and our approach to Agile for Volunteers (or Volunteer Agile) which will, like all our projects, be a collaborative work in progress. These, coupled with the Contributing document linked above, are important and you should be familiar with them before diving in.
 
 * [Organization HOWTOs](https://github.com/InnovateForVegas/doc-org-howtos)
-
-## General Focus Areas
-
-A completely reasonable starting point would combine examining which mobile applications and deployed websites are available at any given time from our City and/or its agencies and relations, example the way other localities address similar interfaces to city services and other information with regard to their populations, and apply a layer of thoughtfulness and interactive engagement with our populace to develop and evolving user experience that is, and will be, a better Human Interface than has been available to date.
-
-This is the *Familiar Surprise* approach, with some caveats.
-
-With the Smart Social project, it is easier to adapt existing platforms and applications and so on, to new paradigms, which can still leverage existing protocols and tools for most of the initial functionality (that is the design approach, at least). If we assume that My Vegas can begin with Smart Social services, we can take the Familiar Surprise approach. However, there will ideally be some new things done in new ways, so while the overall My Vegas platform should be viewed as a MAYA design, there should be components of it that are unusual and new and perhaps unexpected.
-
-## Specification Documents
-
-The specification(s) for the various components and goals of this project are located in the [Doc](doc/README.md) directory. Note that there should be localized versions of the specification documents as needed in this subdirectory.
-
-## Project Backlog
-
-As this project adds component repositories, specific GitHub issues may be opened against individual repos for relevant bugs, missing features, and so on. Prior to the relevant repository existing, an issue backlog may be created against this overview repository. When an appropriate component repository has been created, an issue may be created against the repository with a reference to the issue opened against this overview repository (Double-linking is encouraged).

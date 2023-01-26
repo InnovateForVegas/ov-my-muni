@@ -23,7 +23,7 @@ This is project aimed at building the parts that make up the Human Interface to 
 
 Remember, *My Vegas* is a project name, not a product name (especially since there is a magazine, a website, and a variety of other uses of the *My Vegas* name already), and the components that make up the My Vegas project may be separately-useable, separately-installable (in the case of a stand-alone native application or similar), and separately-enabling. Or, everything might fit together in one monolithic mobile-first or progressive web application.
 
-We will make this determiniation along the way, ideally with real user feedback!
+We will make this determination along the way, ideally with real user feedback!
 
 ## Native Applications vs Progressive Web Applications vs Plain Old HTML
 
@@ -47,7 +47,7 @@ Diversity will almost certainly figure into general platform presentation. Some 
 
 ## References
 
-[Raymon Loewy - MAYA - Familiar Surprise](https://uxdesign.cc/most-advanced-yet-acceptable-theory-meets-digital-product-innovation-f14897147dd5)
+[Raymond Loewy - MAYA - Familiar Surprise](https://uxdesign.cc/most-advanced-yet-acceptable-theory-meets-digital-product-innovation-f14897147dd5)
 
     “To sell something surprising, make it familiar; to sell something familiar, make it surprising.”
 

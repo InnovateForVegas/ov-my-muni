@@ -1,27 +1,27 @@
 <!--
  Copyright (C) 2022 Innovate for Vegas Foundation
  
- This file is part of ov-my-vegas.
+ This file is part of ov-my-muni.
  
- ov-my-vegas is free software: you can redistribute it and/or modify
+ ov-my-muni is free software: you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by
  the Free Software Foundation, either version 3 of the License, or
  (at your option) any later version.
  
- ov-my-vegas is distributed in the hope that it will be useful,
+ ov-my-muni is distributed in the hope that it will be useful,
  but WITHOUT ANY WARRANTY; without even the implied warranty of
  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  GNU General Public License for more details.
  
  You should have received a copy of the GNU General Public License
- along with ov-my-vegas.  If not, see <http://www.gnu.org/licenses/>.
+ along with ov-my-muni.  If not, see <http://www.gnu.org/licenses/>.
 -->
 
-# My Vegas Overview
+# My Muni Overview
 
-This Overview repository is a specification and documentation component of the My Vegas Project. Please do not add code or other resources to this repository.
+This Overview repository is a specification and documentation component of the My Muni Project (formerly the My Vegas Project). Please do not add code or other resources to this repository.
 
-The goal of the My Vegas Project is to enable a Human Interface for our Smarter Smart City.
+The goal of the My Muni Project is to enable a Human Interface for our Smarter Smart City.
 
 ## Project Policies
 
